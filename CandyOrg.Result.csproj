@@ -11,8 +11,4 @@
         <RepositoryUrl>https://github.com/CandyOrganization/CandyOrg.Auth</RepositoryUrl>
         <RootNamespace>CandyOrg.Result</RootNamespace>
     </PropertyGroup>
-
-    <ItemGroup>
-      <Content Include=".github\workflows\publish.yml" />
-    </ItemGroup>
 </Project>
